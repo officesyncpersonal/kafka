@@ -1,0 +1,1 @@
+{"action":"run-spider", "spider-name":"InitialLinks","payload":{"targettype":"kafkatopic","targetvalue":"spider-command","strategy":"spiderpacket"}}
