@@ -1,0 +1,1 @@
+{"key": "RELIANCE", "balancesheet": {"Mar 2016": {"Period": "Mar 2017", "ReservesSurplus": "Mar 2017", "CurrentLiabilities": "235315", "TotalLiabilities": "712339", "FixedAssets": "518471", "CurrentAssets": "146813", "TotalAssets": "712339"}}}
